@@ -59,7 +59,7 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 streamlit run app.py
 ```
 
-**2. How to run in ``prediction.py``
+**2. How to run in ``prediction.py``**
 ```bash
 python prediction.py
 ```
