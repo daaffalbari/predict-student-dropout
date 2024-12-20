@@ -54,10 +54,14 @@ Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga l
 
 ## Menjalankan Sistem Machine Learning
 
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
-
+**1. How to run in streamlit**
 ```bash
 streamlit run app.py
+```
+
+**2. How to run in ``prediction.py``
+```bash
+python prediction.py
 ```
 
 ## Conclusion
