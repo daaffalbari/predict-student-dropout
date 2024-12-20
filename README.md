@@ -74,3 +74,7 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 
 - action item 1
 - action item 2
+
+
+## Streamlit Cloud
+URL: https://predict-student-dropout-nxptta87qtchz3qn4r2zzd.streamlit.app/
